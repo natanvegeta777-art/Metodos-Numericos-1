@@ -1,2 +1,2 @@
 # Metodos-Numericos-1
-Treas de metodos numericos 
+Tareas de metodos numericos 
